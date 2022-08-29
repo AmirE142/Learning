@@ -1,0 +1,20 @@
+[INFO ] 2022-08-28 22:51:10.888 [main] Log - In onStart methodLoginTest
+[INFO ] 2022-08-28 22:51:10.909 [main] Log - Test is starting!
+[INFO ] 2022-08-28 22:51:10.940 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+[INFO ] 2022-08-28 22:51:10.941 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is skipped.
+[INFO ] 2022-08-28 22:51:11.057 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is failed.
+[INFO ] 2022-08-28 22:51:12.245 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2022-08-28 23:03:02.034 [main] Log - In onStart methodLoginTest
+[INFO ] 2022-08-28 23:03:02.054 [main] Log - Test is starting!
+[INFO ] 2022-08-28 23:03:02.083 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+[INFO ] 2022-08-28 23:03:02.084 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is skipped.
+[INFO ] 2022-08-28 23:03:02.204 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is failed.
+[INFO ] 2022-08-28 23:03:03.361 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2022-08-28 23:05:12.945 [main] Log - In onStart methodLoginTest
+[INFO ] 2022-08-28 23:05:12.965 [main] Log - Test is starting!
+[INFO ] 2022-08-28 23:05:12.994 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+[INFO ] 2022-08-28 23:05:12.995 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is skipped.
+[INFO ] 2022-08-28 23:05:13.118 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is failed.
+[INFO ] 2022-08-28 23:05:14.269 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is starting.
+[INFO ] 2022-08-28 23:05:14.270 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is skipped.
+[INFO ] 2022-08-28 23:05:14.287 [main] Log - I am in onFinish method LoginTest

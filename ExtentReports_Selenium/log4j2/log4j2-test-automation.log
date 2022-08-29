@@ -1,0 +1,278 @@
+[INFO ] 2022-08-29 14:28:12.567 [main] Log - In onStart methodLoginTest
+[INFO ] 2022-08-29 14:28:12.589 [main] Log - Test is starting!
+[INFO ] 2022-08-29 14:28:12.618 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+[INFO ] 2022-08-29 14:28:12.620 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is skipped.
+[INFO ] 2022-08-29 14:28:12.746 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is failed.
+[INFO ] 2022-08-29 14:28:13.932 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is starting.
+[INFO ] 2022-08-29 14:28:13.933 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is skipped.
+[INFO ] 2022-08-29 14:28:13.952 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2022-08-29 14:33:28.386 [main] Log - In onStart methodLoginTest
+[INFO ] 2022-08-29 14:33:28.406 [main] Log - Test is starting!
+[INFO ] 2022-08-29 14:33:28.436 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+[INFO ] 2022-08-29 14:33:28.437 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is skipped.
+[INFO ] 2022-08-29 14:33:28.552 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is failed.
+[INFO ] 2022-08-29 14:33:29.722 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is starting.
+[INFO ] 2022-08-29 14:33:29.722 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is skipped.
+[INFO ] 2022-08-29 14:33:29.739 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2022-08-29 14:33:47.904 [main] Log - In onStart methodLoginTest
+[INFO ] 2022-08-29 14:33:47.921 [main] Log - Test is starting!
+[INFO ] 2022-08-29 14:33:47.953 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+[INFO ] 2022-08-29 14:33:47.954 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is skipped.
+[INFO ] 2022-08-29 14:33:48.077 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is failed.
+[INFO ] 2022-08-29 14:33:49.305 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is starting.
+[INFO ] 2022-08-29 14:33:49.306 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is skipped.
+[INFO ] 2022-08-29 14:33:49.322 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2022-08-29 14:33:57.168 [main] Log - In onStart methodLoginTest
+[INFO ] 2022-08-29 14:33:57.184 [main] Log - Test is starting!
+[INFO ] 2022-08-29 14:33:57.216 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+[INFO ] 2022-08-29 14:33:57.218 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is skipped.
+[INFO ] 2022-08-29 14:33:57.336 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is failed.
+[INFO ] 2022-08-29 14:33:58.538 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is starting.
+[INFO ] 2022-08-29 14:33:58.539 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is skipped.
+[INFO ] 2022-08-29 14:33:58.556 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2022-08-29 14:34:34.689 [main] Log - Test is starting!
+[INFO ] 2022-08-29 14:35:43.404 [main] Log - Test is starting!
+[INFO ] 2022-08-29 14:35:56.591 [main] Log - Going to SauceDemo
+[INFO ] 2022-08-29 14:36:04.869 [main] Log - Going to Login Page
+[INFO ] 2022-08-29 14:36:10.094 [main] Log - Trying to log into SauceDemo
+[INFO ] 2022-08-29 14:36:31.438 [main] Log - Going to SauceDemo
+[INFO ] 2022-08-29 14:36:34.870 [main] Log - Going to Login Page
+[INFO ] 2022-08-29 14:36:37.126 [main] Log - Trying to log into SauceDemo
+[INFO ] 2022-08-29 14:36:44.956 [main] Log - Tests are ending!
+[INFO ] 2022-08-29 14:44:25.765 [main] Log - Test is starting!
+[INFO ] 2022-08-29 14:44:35.197 [main] Log - Going to SauceDemo
+[INFO ] 2022-08-29 14:44:46.557 [main] Log - Going to Login Page
+[INFO ] 2022-08-29 14:44:55.132 [main] Log - Trying to log into SauceDemo
+[INFO ] 2022-08-29 14:45:28.816 [main] Log - Test is starting!
+[INFO ] 2022-08-29 14:45:38.645 [main] Log - Going to SauceDemo
+[INFO ] 2022-08-29 14:45:54.983 [main] Log - In onStart methodLoginTest
+[INFO ] 2022-08-29 14:45:55.000 [main] Log - Test is starting!
+[INFO ] 2022-08-29 14:45:56.128 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+[INFO ] 2022-08-29 14:46:00.181 [main] Log - Going to SauceDemo
+[INFO ] 2022-08-29 14:46:03.854 [main] Log - Going to Login Page
+[INFO ] 2022-08-29 14:46:39.484 [main] Log - Trying to log into SauceDemo
+[INFO ] 2022-08-29 14:46:47.765 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is skipped.
+[INFO ] 2022-08-29 14:47:05.824 [main] Log - In onStart methodLoginTest
+[INFO ] 2022-08-29 14:47:05.841 [main] Log - Test is starting!
+[INFO ] 2022-08-29 14:47:06.954 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+[INFO ] 2022-08-29 14:47:09.293 [main] Log - Going to SauceDemo
+[INFO ] 2022-08-29 14:47:12.397 [main] Log - Going to Login Page
+[INFO ] 2022-08-29 14:47:20.084 [main] Log - Trying to log into SauceDemo
+[INFO ] 2022-08-29 14:48:25.935 [main] Log - In onStart methodLoginTest
+[INFO ] 2022-08-29 14:48:25.956 [main] Log - Test is starting!
+[INFO ] 2022-08-29 14:48:27.070 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+[INFO ] 2022-08-29 14:48:27.192 [main] Log - Going to SauceDemo
+[INFO ] 2022-08-29 14:48:27.484 [main] Log - Going to Login Page
+[INFO ] 2022-08-29 14:48:27.487 [main] Log - Trying to log into SauceDemo
+[INFO ] 2022-08-29 14:48:28.101 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is skipped.
+[INFO ] 2022-08-29 14:48:28.104 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+[INFO ] 2022-08-29 14:48:28.104 [main] Log - Going to SauceDemo
+[INFO ] 2022-08-29 14:48:28.397 [main] Log - Going to Login Page
+[INFO ] 2022-08-29 14:48:28.398 [main] Log - Trying to log into SauceDemo
+[INFO ] 2022-08-29 14:48:28.399 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is failed.
+[INFO ] 2022-08-29 14:48:29.031 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is starting.
+[INFO ] 2022-08-29 14:48:29.032 [main] Log - Going to SauceDemo
+[INFO ] 2022-08-29 14:48:29.367 [main] Log - Going to Login Page
+[INFO ] 2022-08-29 14:48:29.371 [main] Log - Trying to log into SauceDemo
+[INFO ] 2022-08-29 14:48:30.019 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is skipped.
+[INFO ] 2022-08-29 14:48:30.022 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is starting.
+[INFO ] 2022-08-29 14:48:30.022 [main] Log - Going to SauceDemo
+[INFO ] 2022-08-29 14:48:30.308 [main] Log - Going to Login Page
+[INFO ] 2022-08-29 14:48:30.310 [main] Log - Trying to log into SauceDemo
+[INFO ] 2022-08-29 14:48:30.310 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is failed.
+[INFO ] 2022-08-29 14:48:30.980 [main] Log - Tests are ending!
+[INFO ] 2022-08-29 14:48:31.067 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2022-08-29 14:50:37.628 [main] Log - In onStart methodLoginTest
+[INFO ] 2022-08-29 14:50:37.645 [main] Log - Test is starting!
+[INFO ] 2022-08-29 14:50:38.773 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+[INFO ] 2022-08-29 14:50:40.660 [main] Log - Going to SauceDemo
+[INFO ] 2022-08-29 14:50:43.252 [main] Log - Going to Login Page
+[INFO ] 2022-08-29 14:50:45.037 [main] Log - Trying to log into SauceDemo
+[INFO ] 2022-08-29 14:51:07.556 [main] Log - In onStart methodLoginTest
+[INFO ] 2022-08-29 14:51:07.573 [main] Log - Test is starting!
+[INFO ] 2022-08-29 14:51:08.702 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+[INFO ] 2022-08-29 14:51:10.620 [main] Log - Going to SauceDemo
+[INFO ] 2022-08-29 14:51:12.796 [main] Log - Going to Login Page
+[INFO ] 2022-08-29 14:51:14.397 [main] Log - Trying to log into SauceDemo
+[INFO ] 2022-08-29 14:56:47.732 [main] Log - In onStart methodLoginTest
+[INFO ] 2022-08-29 14:56:47.750 [main] Log - Test is starting!
+[INFO ] 2022-08-29 14:56:48.885 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+[INFO ] 2022-08-29 14:56:51.669 [main] Log - Going to SauceDemo
+[INFO ] 2022-08-29 14:56:54.076 [main] Log - Going to Login Page
+[INFO ] 2022-08-29 14:56:55.565 [main] Log - Trying to log into SauceDemo
+[INFO ] 2022-08-29 14:57:25.260 [main] Log - Verifying javascript login errors.
+[INFO ] 2022-08-29 14:57:29.734 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is skipped.
+[INFO ] 2022-08-29 14:57:44.399 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+[INFO ] 2022-08-29 14:57:45.107 [main] Log - Going to SauceDemo
+[INFO ] 2022-08-29 14:57:46.883 [main] Log - Going to Login Page
+[INFO ] 2022-08-29 14:57:48.203 [main] Log - Trying to log into SauceDemo
+[INFO ] 2022-08-29 14:58:40.404 [main] Log - In onStart methodLoginTest
+[INFO ] 2022-08-29 14:58:40.421 [main] Log - Test is starting!
+[INFO ] 2022-08-29 14:58:41.533 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+[INFO ] 2022-08-29 14:58:43.363 [main] Log - Going to SauceDemo
+[INFO ] 2022-08-29 14:58:45.322 [main] Log - Going to Login Page
+[INFO ] 2022-08-29 14:58:46.057 [main] Log - Trying to log into SauceDemo
+[INFO ] 2022-08-29 14:59:00.876 [main] Log - Verifying javascript login errors.
+[INFO ] 2022-08-29 14:59:04.697 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is skipped.
+[INFO ] 2022-08-29 14:59:12.133 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+[INFO ] 2022-08-29 15:00:30.813 [main] Log - In onStart methodLoginTest
+[INFO ] 2022-08-29 15:00:30.829 [main] Log - Test is starting!
+[INFO ] 2022-08-29 15:00:31.972 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+[INFO ] 2022-08-29 15:00:33.668 [main] Log - Going to SauceDemo
+[INFO ] 2022-08-29 15:00:36.410 [main] Log - Going to Login Page
+[INFO ] 2022-08-29 15:00:37.122 [main] Log - Trying to log into SauceDemo
+[INFO ] 2022-08-29 15:00:51.588 [main] Log - Verifying javascript login errors.
+[INFO ] 2022-08-29 15:01:38.763 [main] Log - In onStart methodLoginTest
+[INFO ] 2022-08-29 15:01:38.779 [main] Log - Test is starting!
+[INFO ] 2022-08-29 15:01:39.885 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+[INFO ] 2022-08-29 15:02:29.603 [main] Log - Going to SauceDemo
+[INFO ] 2022-08-29 15:02:30.707 [main] Log - Going to Login Page
+[INFO ] 2022-08-29 15:02:32.274 [main] Log - Trying to log into SauceDemo
+[INFO ] 2022-08-29 15:02:49.388 [main] Log - Verifying javascript login errors.
+[INFO ] 2022-08-29 15:04:02.785 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is skipped.
+[INFO ] 2022-08-29 15:04:02.788 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+[INFO ] 2022-08-29 15:04:07.769 [main] Log - Going to SauceDemo
+[INFO ] 2022-08-29 15:04:08.665 [main] Log - Going to Login Page
+[INFO ] 2022-08-29 15:04:09.601 [main] Log - Trying to log into SauceDemo
+[INFO ] 2022-08-29 15:04:13.585 [main] Log - Verifying javascript login errors.
+[INFO ] 2022-08-29 15:04:16.811 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is failed.
+[INFO ] 2022-08-29 15:04:17.400 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is starting.
+[INFO ] 2022-08-29 15:04:18.737 [main] Log - Going to SauceDemo
+[INFO ] 2022-08-29 15:04:19.030 [main] Log - Going to Login Page
+[INFO ] 2022-08-29 15:04:19.538 [main] Log - Trying to log into SauceDemo
+[INFO ] 2022-08-29 15:04:22.660 [main] Log - Verifying login username.
+[INFO ] 2022-08-29 15:04:24.382 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is skipped.
+[INFO ] 2022-08-29 15:04:24.384 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is starting.
+[INFO ] 2022-08-29 15:04:28.305 [main] Log - Going to SauceDemo
+[INFO ] 2022-08-29 15:04:28.650 [main] Log - Going to Login Page
+[INFO ] 2022-08-29 15:04:29.186 [main] Log - Trying to log into SauceDemo
+[INFO ] 2022-08-29 15:04:32.660 [main] Log - Verifying login username.
+[INFO ] 2022-08-29 15:04:34.039 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is failed.
+[INFO ] 2022-08-29 15:04:34.636 [main] Log - Tests are ending!
+[INFO ] 2022-08-29 15:04:34.730 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2022-08-29 15:07:16.502 [main] Log - In onStart methodLoginTest
+[INFO ] 2022-08-29 15:07:16.519 [main] Log - Test is starting!
+[INFO ] 2022-08-29 15:07:17.659 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+[INFO ] 2022-08-29 15:07:17.786 [main] Log - Going to SauceDemo
+[INFO ] 2022-08-29 15:07:25.484 [main] Log - Going to Login Page
+[INFO ] 2022-08-29 15:07:28.739 [main] Log - Trying to log into SauceDemo
+[INFO ] 2022-08-29 15:07:37.460 [main] Log - Verifying javascript login errors.
+[INFO ] 2022-08-29 15:08:45.683 [main] Log - In onStart methodLoginTest
+[INFO ] 2022-08-29 15:08:45.700 [main] Log - Test is starting!
+[INFO ] 2022-08-29 15:08:46.870 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+[INFO ] 2022-08-29 15:08:46.992 [main] Log - Going to SauceDemo
+[INFO ] 2022-08-29 15:08:47.338 [main] Log - Going to Login Page
+[INFO ] 2022-08-29 15:08:49.667 [main] Log - Trying to log into SauceDemo
+[INFO ] 2022-08-29 15:08:58.811 [main] Log - Verifying javascript login errors.
+[INFO ] 2022-08-29 15:12:31.165 [main] Log - In onStart methodLoginTest
+[INFO ] 2022-08-29 15:12:31.181 [main] Log - Test is starting!
+[INFO ] 2022-08-29 15:12:32.341 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+[INFO ] 2022-08-29 15:12:32.470 [main] Log - Going to SauceDemo
+[INFO ] 2022-08-29 15:12:32.764 [main] Log - Going to Login Page
+[INFO ] 2022-08-29 15:12:35.763 [main] Log - Trying to log into SauceDemo
+[INFO ] 2022-08-29 15:12:54.204 [main] Log - Verifying javascript login errors.
+[INFO ] 2022-08-29 15:20:08.018 [main] Log - In onStart methodLoginTest
+[INFO ] 2022-08-29 15:20:08.037 [main] Log - Test is starting!
+[INFO ] 2022-08-29 15:20:09.147 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+[INFO ] 2022-08-29 15:20:09.275 [main] Log - Going to SauceDemo
+[INFO ] 2022-08-29 15:20:09.664 [main] Log - Going to Login Page
+[INFO ] 2022-08-29 15:20:09.670 [main] Log - Trying to log into SauceDemo
+[INFO ] 2022-08-29 15:20:12.923 [main] Log - Verifying javascript login errors.
+[INFO ] 2022-08-29 15:20:43.692 [main] Log - In onStart methodLoginTest
+[INFO ] 2022-08-29 15:20:43.708 [main] Log - Test is starting!
+[INFO ] 2022-08-29 15:20:44.838 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+[INFO ] 2022-08-29 15:20:44.963 [main] Log - Going to SauceDemo
+[INFO ] 2022-08-29 15:20:45.254 [main] Log - Going to Login Page
+[INFO ] 2022-08-29 15:20:45.259 [main] Log - Trying to log into SauceDemo
+[INFO ] 2022-08-29 15:20:47.345 [main] Log - Verifying javascript login errors.
+[INFO ] 2022-08-29 15:33:50.734 [main] Log - In onStart methodLoginTest
+[INFO ] 2022-08-29 15:33:50.751 [main] Log - Test is starting!
+[INFO ] 2022-08-29 15:33:51.878 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+[INFO ] 2022-08-29 15:33:52.011 [main] Log - Going to SauceDemo
+[INFO ] 2022-08-29 15:33:52.342 [main] Log - Going to Login Page
+[INFO ] 2022-08-29 15:33:52.347 [main] Log - Trying to log into SauceDemo
+[INFO ] 2022-08-29 15:33:55.209 [main] Log - Verifying javascript login errors.
+[INFO ] 2022-08-29 15:38:59.320 [main] Log - In onStart methodLoginTest
+[INFO ] 2022-08-29 15:38:59.336 [main] Log - Test is starting!
+[INFO ] 2022-08-29 15:39:00.446 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+[INFO ] 2022-08-29 15:39:00.581 [main] Log - Going to SauceDemo
+[INFO ] 2022-08-29 15:39:00.947 [main] Log - Going to Login Page
+[INFO ] 2022-08-29 15:39:00.951 [main] Log - Trying to log into SauceDemo
+[INFO ] 2022-08-29 15:39:04.393 [main] Log - Verifying javascript login errors.
+[INFO ] 2022-08-29 15:39:21.331 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is succeed.
+[INFO ] 2022-08-29 15:39:29.583 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is starting.
+[INFO ] 2022-08-29 15:39:29.586 [main] Log - Going to SauceDemo
+[INFO ] 2022-08-29 15:39:29.649 [main] Log - Going to Login Page
+[INFO ] 2022-08-29 15:39:29.684 [main] Log - Trying to log into SauceDemo
+[INFO ] 2022-08-29 15:39:33.421 [main] Log - Verifying login username.
+[INFO ] 2022-08-29 15:39:36.710 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is skipped.
+[INFO ] 2022-08-29 15:39:36.719 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is starting.
+[INFO ] 2022-08-29 15:39:36.720 [main] Log - Going to SauceDemo
+[INFO ] 2022-08-29 15:39:37.050 [main] Log - Going to Login Page
+[INFO ] 2022-08-29 15:39:37.057 [main] Log - Trying to log into SauceDemo
+[INFO ] 2022-08-29 15:39:37.656 [main] Log - Verifying login username.
+[INFO ] 2022-08-29 15:39:38.012 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is failed.
+[INFO ] 2022-08-29 15:39:38.676 [main] Log - Tests are ending!
+[INFO ] 2022-08-29 15:40:45.166 [main] Log - In onStart methodLoginTest
+[INFO ] 2022-08-29 15:40:45.191 [main] Log - Test is starting!
+[INFO ] 2022-08-29 15:40:46.674 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+[INFO ] 2022-08-29 15:40:46.939 [main] Log - Going to SauceDemo
+[INFO ] 2022-08-29 15:40:47.142 [main] Log - In onStart methodLoginTest
+[INFO ] 2022-08-29 15:40:47.161 [main] Log - Test is starting!
+[INFO ] 2022-08-29 15:40:47.258 [main] Log - Going to Login Page
+[INFO ] 2022-08-29 15:40:47.261 [main] Log - Trying to log into SauceDemo
+[INFO ] 2022-08-29 15:40:47.462 [main] Log - Verifying javascript login errors.
+[INFO ] 2022-08-29 15:40:47.485 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is succeed.
+[INFO ] 2022-08-29 15:40:47.493 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is starting.
+[INFO ] 2022-08-29 15:40:47.494 [main] Log - Going to SauceDemo
+[INFO ] 2022-08-29 15:40:47.552 [main] Log - Going to Login Page
+[INFO ] 2022-08-29 15:40:47.556 [main] Log - Trying to log into SauceDemo
+[INFO ] 2022-08-29 15:40:47.673 [main] Log - Verifying login username.
+[INFO ] 2022-08-29 15:40:48.370 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is skipped.
+[INFO ] 2022-08-29 15:40:48.373 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is starting.
+[INFO ] 2022-08-29 15:40:48.373 [main] Log - Going to SauceDemo
+[INFO ] 2022-08-29 15:40:48.437 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+[INFO ] 2022-08-29 15:40:48.571 [main] Log - Going to SauceDemo
+[INFO ] 2022-08-29 15:40:48.667 [main] Log - Going to Login Page
+[INFO ] 2022-08-29 15:40:48.671 [main] Log - Trying to log into SauceDemo
+[INFO ] 2022-08-29 15:40:48.826 [main] Log - Verifying login username.
+[INFO ] 2022-08-29 15:40:48.876 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is failed.
+[INFO ] 2022-08-29 15:40:48.882 [main] Log - Going to Login Page
+[INFO ] 2022-08-29 15:40:48.896 [main] Log - Trying to log into SauceDemo
+[INFO ] 2022-08-29 15:40:49.517 [main] Log - Tests are ending!
+[INFO ] 2022-08-29 15:40:49.613 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2022-08-29 15:41:00.020 [main] Log - In onStart methodLoginTest
+[INFO ] 2022-08-29 15:41:00.037 [main] Log - Test is starting!
+[INFO ] 2022-08-29 15:41:01.154 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+[INFO ] 2022-08-29 15:41:01.276 [main] Log - Going to SauceDemo
+[INFO ] 2022-08-29 15:41:01.565 [main] Log - Going to Login Page
+[INFO ] 2022-08-29 15:41:01.573 [main] Log - Trying to log into SauceDemo
+[INFO ] 2022-08-29 15:41:11.223 [main] Log - Verifying javascript login errors.
+[INFO ] 2022-08-29 15:41:13.051 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is succeed.
+[INFO ] 2022-08-29 15:41:13.057 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is starting.
+[INFO ] 2022-08-29 15:41:13.057 [main] Log - Going to SauceDemo
+[INFO ] 2022-08-29 15:41:13.093 [main] Log - Going to Login Page
+[INFO ] 2022-08-29 15:41:13.096 [main] Log - Trying to log into SauceDemo
+[INFO ] 2022-08-29 15:41:19.353 [main] Log - Verifying login username.
+[INFO ] 2022-08-29 15:46:37.195 [main] Log - In onStart methodLoginTest
+[INFO ] 2022-08-29 15:46:37.215 [main] Log - Test is starting!
+[INFO ] 2022-08-29 15:46:38.305 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+[INFO ] 2022-08-29 15:46:38.425 [main] Log - Going to SauceDemo
+[INFO ] 2022-08-29 15:46:38.722 [main] Log - Going to Login Page
+[INFO ] 2022-08-29 15:46:38.725 [main] Log - Trying to log into SauceDemo
+[INFO ] 2022-08-29 15:46:38.885 [main] Log - Verifying javascript login errors.
+[INFO ] 2022-08-29 15:46:38.903 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is succeed.
+[INFO ] 2022-08-29 15:46:38.909 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is starting.
+[INFO ] 2022-08-29 15:46:38.910 [main] Log - Going to SauceDemo
+[INFO ] 2022-08-29 15:46:38.976 [main] Log - Going to Login Page
+[INFO ] 2022-08-29 15:46:38.978 [main] Log - Trying to log into SauceDemo
+[INFO ] 2022-08-29 15:46:39.081 [main] Log - Verifying login username.
+[INFO ] 2022-08-29 15:46:39.684 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is skipped.
+[INFO ] 2022-08-29 15:46:39.686 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is starting.
+[INFO ] 2022-08-29 15:46:39.686 [main] Log - Going to SauceDemo
+[INFO ] 2022-08-29 15:46:39.971 [main] Log - Going to Login Page
+[INFO ] 2022-08-29 15:46:39.973 [main] Log - Trying to log into SauceDemo
+[INFO ] 2022-08-29 15:46:40.100 [main] Log - Verifying login username.
+[INFO ] 2022-08-29 15:46:40.135 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is failed.
+[INFO ] 2022-08-29 15:46:40.717 [main] Log - Tests are ending!
+[INFO ] 2022-08-29 15:46:40.807 [main] Log - I am in onFinish method LoginTest

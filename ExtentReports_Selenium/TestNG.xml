@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Sauce Demo Test Suite">
+  <listeners>
+        <listener class-name="com.ae142.utils.listeners.TestListener"/>
+        <listener class-name="com.ae142.utils.listeners.AnnotationTransformer"/>
+    </listeners>
+  <test name="LoginTest">
+    <classes>
+      <class name="com.ae142.tests.LoginTests"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
